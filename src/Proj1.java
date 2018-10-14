@@ -180,14 +180,6 @@ public class Proj1 {
 			
 			} while (dealerSum < 17); //end do-while	
 		}  //  end if
-
-//		System.out.println("\nPlayer's cards:");
-//		for (int i = 0; i < userHandArrIndex; i++)
-//			System.out.println(userHandArr[i]);
-//		
-//		System.out.println("Dealer's cards:");
-//		for (int i = 0; i < dealerHandArrIndex; i++)
-//			System.out.println(dealerHandArr[i]);
 		
 		System.out.println();
 		System.out.println(name + "'s total: " + userSum);		
